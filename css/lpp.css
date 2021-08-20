@@ -1,0 +1,14 @@
+/* 
+Author: Gordon Inman
+Purpose: Trying to style the LPP content
+*/
+aside.class-tip {
+  border:1px solid slategray;
+  padding:1em 2em; 
+  max-width: 80%; 
+  min-width: 500px; 
+  margin-left: 1.5em;
+  border-radius: .5em; 
+  box-shadow: 3px 3px 5px hsl(280, 15%, 25%, .5); 
+  background-color: hsl(208, 32%, 92%);
+}
